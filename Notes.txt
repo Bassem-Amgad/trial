@@ -1,0 +1,18 @@
+Cloning a Repository
+To clone a repository, run git clone followed by a space and the repository URL.
+
+Asteroids URL
+Use the following url to clone the Asteroids repository: https://github.com/udacity/asteroids.git
+
+Exiting git log
+To stop viewing git log output, press q (which stands for quit).
+
+Getting Colored Output
+To get colored diff output, run git config --global color.ui auto
+
+Using git log and git diff
+As a reminder, running git log will show a list of the recent commits with information about them, including commit IDs. Running git diff followed by two commit IDs will compare the two versions of the code in those commits.
+
+git checkout
+The command checkout the "Revert controls" commit is git checkout b0678b161fcf74467ed3a63110557e3d6229cfa6.
+
