@@ -16,3 +16,12 @@ As a reminder, running git log will show a list of the recent commits with infor
 git checkout
 The command checkout the "Revert controls" commit is git checkout b0678b161fcf74467ed3a63110557e3d6229cfa6.
 
+
+git init
+initialize repository creating .git file
+
+git add
+move file from working space to staging area (intermidate between working space and repository)
+
+git commit
+to commit file
