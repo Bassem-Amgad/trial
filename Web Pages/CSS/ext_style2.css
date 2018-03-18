@@ -1,0 +1,59 @@
+body
+{
+	background:#B3B3B3;
+	margin:5%;
+}
+header,h1
+{
+	/*color:purple;*/
+	/*color:#800080;*/
+	/*color:rgb(128,0,128);*/
+	color:rgba(128, 0, 40, 0.61);
+	background: #00b7ea;
+	padding-bottom:20px;
+	font-family: Arial !important ;
+	font-family: courier;
+	text-align:center;
+}
+nav
+{
+	/*color:rgba(128, 48, 0, 0.73);*/
+	font-variant:small-caps;
+	background: #00b7ea;
+	text-align:center;
+	font-size:120%;
+	font-family: courier, Arial ;
+}
+section
+{
+	display:inline-block;
+	width:30%;
+	margin-right: 2%;
+	float:left;
+}
+
+h2 
+{
+	color:rgba(96, 0, 128, 0.63);
+	font-size:150%;
+	font-family: "Times New Roman" ;
+}
+details
+{
+	font-style: italic;
+}
+summary
+{
+	font-style: normal;
+}
+footer
+{
+	background: rgba(128, 48, 0, 0.73);
+	clear: both;
+}
+img
+{
+	width:120px;
+}
+
+	

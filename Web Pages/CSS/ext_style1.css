@@ -1,0 +1,40 @@
+header,h1
+{
+	/*color:purple;*/
+	/*color:#800080;*/
+	/*color:rgb(128,0,128);*/
+	color:rgba(128, 0, 40, 0.61);
+	
+	font-family: Arial !important ;
+	font-family: courier;
+	text-align:center;
+}
+nav
+{
+	/*color:rgba(128, 48, 0, 0.73);*/
+	font-variant:small-caps;
+	background: #b3b3b3;
+	text-align:center;
+	font-size:120%;
+	font-family: courier, Arial ;
+}
+h2 
+{
+	color:rgba(96, 0, 128, 0.63);
+	font-size:150%;
+	font-family: "Times New Roman" ;
+}
+details
+{
+	font-style: italic;
+}
+summary
+{
+	font-style: normal;
+}
+footer
+{
+	background: rgba(128, 48, 0, 0.73);
+}
+
+	

@@ -1,0 +1,20 @@
+aside{
+  display:none;
+}
+header{
+	text-align:center;
+	color:white;
+	font-variant:caps;
+	background-color:grey;
+}
+nav{
+	text-align:left;
+}
+section{
+	text-align:justify;
+	background-color:fuchsia;
+	font-size:120%;
+}
+h2{
+	color:blue;
+}
